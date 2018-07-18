@@ -1,0 +1,2 @@
+# fuma.github.io
+skins
