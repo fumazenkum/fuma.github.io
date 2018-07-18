@@ -1,2 +1,2 @@
-# fuma.github.io
-skins
+# fumazenkum.github.io
+
